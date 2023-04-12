@@ -17,7 +17,8 @@ h2 {
     text-transform: uppercase;
     color: white;
     letter-spacing: 3px;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
+    font-weight: 800;
 }
 
 .clock {
